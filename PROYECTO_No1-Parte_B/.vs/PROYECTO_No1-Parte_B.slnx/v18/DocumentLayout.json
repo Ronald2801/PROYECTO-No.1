@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RONALD\\Documents\\GitHub\\RJMC_1259826\\PROYECTO No.1\\PROYECTO_No1-Parte_B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3210AF-8030-49C8-9067-EDAEB772027E}|PROYECTO_No1-Parte_B\\PROYECTO_No1-Parte_B.csproj|c:\\users\\ronald\\documents\\github\\rjmc_1259826\\proyecto no.1\\proyecto_no1-parte_b\\proyecto_no1-parte_b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C3210AF-8030-49C8-9067-EDAEB772027E}|PROYECTO_No1-Parte_B\\PROYECTO_No1-Parte_B.csproj|solutionrelative:proyecto_no1-parte_b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\RONALD\\Documents\\GitHub\\RJMC_1259826\\PROYECTO No.1\\PROYECTO_No1-Parte_B\\PROYECTO_No1-Parte_B\\Program.cs",
+              "RelativeDocumentMoniker": "PROYECTO_No1-Parte_B\\Program.cs",
+              "ToolTip": "C:\\Users\\RONALD\\Documents\\GitHub\\RJMC_1259826\\PROYECTO No.1\\PROYECTO_No1-Parte_B\\PROYECTO_No1-Parte_B\\Program.cs",
+              "RelativeToolTip": "PROYECTO_No1-Parte_B\\Program.cs",
+              "ViewState": "AgIAAEcBAAAAAAAAAAAAAGABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T06:03:15.592Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\RONALD\Documents\GitHub\RJMC_1259826\PROYECTO No.1\PROYECTO_No1-Parte_B\PROYECTO_No1-Parte_B\bin\Debug\PROYECTO_No1-Parte_B.exe.config
+C:\Users\RONALD\Documents\GitHub\RJMC_1259826\PROYECTO No.1\PROYECTO_No1-Parte_B\PROYECTO_No1-Parte_B\bin\Debug\PROYECTO_No1-Parte_B.exe
+C:\Users\RONALD\Documents\GitHub\RJMC_1259826\PROYECTO No.1\PROYECTO_No1-Parte_B\PROYECTO_No1-Parte_B\bin\Debug\PROYECTO_No1-Parte_B.pdb
+C:\Users\RONALD\Documents\GitHub\RJMC_1259826\PROYECTO No.1\PROYECTO_No1-Parte_B\PROYECTO_No1-Parte_B\obj\Debug\PROYECTO_No1-Parte_B.csproj.AssemblyReference.cache
+C:\Users\RONALD\Documents\GitHub\RJMC_1259826\PROYECTO No.1\PROYECTO_No1-Parte_B\PROYECTO_No1-Parte_B\obj\Debug\PROYECTO_No1-Parte_B.csproj.CoreCompileInputs.cache
+C:\Users\RONALD\Documents\GitHub\RJMC_1259826\PROYECTO No.1\PROYECTO_No1-Parte_B\PROYECTO_No1-Parte_B\obj\Debug\PROYECTO_No1-Parte_B.exe
+C:\Users\RONALD\Documents\GitHub\RJMC_1259826\PROYECTO No.1\PROYECTO_No1-Parte_B\PROYECTO_No1-Parte_B\obj\Debug\PROYECTO_No1-Parte_B.pdb
